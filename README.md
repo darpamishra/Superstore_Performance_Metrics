@@ -44,7 +44,7 @@ The Technology category has the highest profit contribution (50.79%).
 
 4. Shipping Modes: Standard Class shipping is the most profitable and widely used.
   
-5.Seasonal Trends: Sales peak in November and December due to holiday shopping.
+5. Seasonal Trends: Sales peak in November and December due to holiday shopping.
 
 
 ## Dashboard Preview
