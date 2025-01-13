@@ -12,24 +12,25 @@ The [dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ### SQL Analysis
 
-Top Products by Profit: Identify the top 5 products generating the highest profit.
-State Performance: Analyze states with the highest total sales.
-Category Contribution: Determine the profit percentage contributed by each category.
-Customer Segments: Highlight top-performing customer segments by total sales.
-Shipping Mode Efficiency: Evaluate sales and profit by shipping mode.
-Top Sub-Categories: Discover the sub-categories with the highest quantity sold.
-Monthly Sales Trends: Track sales trends over time to identify seasonality.
+- Top Products by Profit: Identify the top 5 products generating the highest profit.
+- State Performance: Analyze states with the highest total sales.
+- Category Contribution: Determine the profit percentage contributed by each category.
+- Customer Segments: Highlight top-performing customer segments by total sales.
+- Shipping Mode Efficiency: Evaluate sales and profit by shipping mode.
+- Top Sub-Categories: Discover the sub-categories with the highest quantity sold.
+- Monthly Sales Trends: Track sales trends over time to identify seasonality.
 
 ### Power BI Dashboard
+
 The Power BI dashboard visualizes the results of the SQL analysis, providing a clear and interactive representation of key metrics. Key features include:
 
-Top 5 Profitable Products: Bar chart showing products with the highest profit contribution.
-Regional Performance: Column chart highlighting top-performing states.
-Category Profitability: Donut chart displaying profit percentages by category.
-Customer Segment Insights: Donut chart of total sales by customer segment.
-Shipping Mode Performance: Stacked bar chart for sales and profit by shipping mode.
-Sales Trends: Line chart visualizing monthly sales trends.
-Top Sub-Categories: Horizontal bar chart of sub-categories with the highest sales quantity.
+- Top 5 Profitable Products: Bar chart showing products with the highest profit contribution.
+- Regional Performance: Column chart highlighting top-performing states.
+- Category Profitability: Donut chart displaying profit percentages by category.
+- Customer Segment Insights: Donut chart of total sales by customer segment.
+- Shipping Mode Performance: Stacked bar chart for sales and profit by shipping mode.
+- Sales Trends: Line chart visualizing monthly sales trends.
+- Top Sub-Categories: Horizontal bar chart of sub-categories with the highest sales quantity.
 
 ### Key Insights
 
