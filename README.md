@@ -2,7 +2,7 @@
 
 ## Dataset Overview
 
-The dataset includes sales, profit, discount, and customer details for a superstore across various regions, categories, and customer segments. It aims to answer key business questions like:
+The [dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) includes sales, profit, discount, and customer details for a superstore across various regions, categories, and customer segments. It aims to answer key business questions like:
 
 - Which products and categories are most profitable?
 - How do discounts impact profits?
