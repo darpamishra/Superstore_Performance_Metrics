@@ -48,3 +48,4 @@ The Technology category has the highest profit contribution (50.79%).
 
 ## Dashboard Preview
 
+![Screenshot 2025-01-11 191320](https://github.com/user-attachments/assets/6c853395-205d-4740-a3a0-11a40b6f1bb9)
